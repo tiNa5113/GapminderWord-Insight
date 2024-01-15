@@ -1,13 +1,16 @@
 # GapminderWorld-Insight
-Explore global socio-economic dynamics over time with the Gapminder World dataset. This repository contains Python scripts and Jupyter Notebooks for in-depth analysis of key metrics such as income per person, life expectancy, and more, across different countries. Uncover trends through visualizations and statistical analyses, gaining valuable insights into the evolving landscape of our world.
+Hello there, Have you ever thought about how our world has changed over the years? Discover how the world has changed over time using the Gapminder World dataset. In this repository, we dig deep into important numbers like income per person and life expectancy across various countries. See trends through pictures and numbers, and get valuable insights into how our world is evolving.
 ## Features
 ### Visualizations:
-Comprehensive charts and plots illustrating global trends.
+- Comprehensive charts and plots illustrating global trends.
 ### Statistical Analysis:
-In-depth insights through statistical metrics.
+- In-depth insights through statistical metrics.
 ### Correlation Studies:
-Explore relationships between various socio-economic factors.
+- Explore relationships between various socio-economic factors.
 ## Data Sources
-Gapminder world and kaggle
+- Gapminder world and kaggle
 ## Libraries 
-
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
