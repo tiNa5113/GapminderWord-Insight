@@ -33,5 +33,6 @@ Hello there, Have you ever thought about how our world has changed over the year
 - Matplotlib
 - Seaborn
 
+#### Contributions are welcome! Feel free to open issues for suggestions or submit pull requests, Thanks!
 
 
