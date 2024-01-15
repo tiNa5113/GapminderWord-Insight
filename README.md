@@ -1,6 +1,16 @@
 # GapminderWorld-Insight
 Hello there, Have you ever thought about how our world has changed over the years? Discover how the world has changed over time using the Gapminder World dataset. In this repository, we dig deep into important numbers like income per person and life expectancy across various countries. See trends through pictures and numbers, and get valuable insights into how our world is evolving.
 #### Designed in accordance with the Data Analytics Project guideline!
+
+## About me
+
+### Nathnael Mengistu
+####  ID:1083/12
+
+- GitHub: [[My GitHub Profile](https://github.com/tiNa5113)]
+- Email: [nathnaelmengistu13@gmail.com]
+- LinkedIn: [www.linkedin.com/in/natty-mengistu]
+
 ## Features
 #### Visualizations:
 - Comprehensive charts and plots illustrating global trends.
@@ -23,13 +33,5 @@ Hello there, Have you ever thought about how our world has changed over the year
 - Matplotlib
 - Seaborn
 
-## About me
-
-### Nathnael Mengistu
-####  ID:1083/12
-
-- GitHub: [[My GitHub Profile](https://github.com/tiNa5113)]
-- Email: [nathnaelmengistu13@gmail.com]
-- LinkedIn: [www.linkedin.com/in/natty-mengistu]
 
 
